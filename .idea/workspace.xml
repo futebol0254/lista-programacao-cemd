@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="" />
+    <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala06.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtividadesEmSala/AtividadeSala06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtividadesEmSala/AtividadeSala06.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +48,13 @@
     "Application.AtividadeSala04.executor": "Run",
     "Application.AtividadeSala05.executor": "Run",
     "Application.AtividadeSala06.executor": "Run",
+    "Application.AtividadeSala07.executor": "Run",
+    "Application.AtividadeSala08.executor": "Run",
+    "Application.AtividadeSala09.executor": "Run",
+    "Application.AtividadeSala10.executor": "Run",
+    "Application.AtividadeSala11.executor": "Run",
+    "Application.AtividadeSala12.executor": "Run",
+    "Application.AtividadeSala13.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
