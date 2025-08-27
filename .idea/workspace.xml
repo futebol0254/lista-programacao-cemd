@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala13.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtividadesEmSala/AtividadeSala13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtividadesEmSala/AtividadeSala13.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,8 @@
     "Application.AtividadeSala12.executor": "Run",
     "Application.AtividadeSala13.executor": "Run",
     "Application.AtividadeSala14.executor": "Run",
+    "Application.AtividadeSala15.executor": "Run",
+    "Application.AtividadeSala16.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
