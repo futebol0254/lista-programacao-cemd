@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AtividadesJava/Atividade4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
     "Application.Atividade1.executor": "Run",
     "Application.Atividade2.executor": "Run",
     "Application.Atividade3.executor": "Run",
+    "Application.Atividade4.executor": "Run",
     "Application.AtividadeSala01.executor": "Run",
     "Application.AtividadeSala02.executor": "Run",
     "Application.AtividadeSala03.executor": "Run",
