@@ -4,7 +4,6 @@ public class AtividadeSala12 {
         Scanner leia = new Scanner(System.in);
         double[] notas = new double[3];
         double media = 0, soma = 0;
-        //double[] notas = {0,0,0};
         for (int i = 0; i < 3; i++){
             System.out.println("Digite a "+(i+1)+" nota");
             notas[i] = leia.nextDouble();

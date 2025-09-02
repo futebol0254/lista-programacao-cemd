@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade40.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadesJava/src/Atividade10.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadesJava/src/Atividade11.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadesJava/src/Atividade9.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala12.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtividadesJava/Atividade12.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +43,18 @@
     "Application.Atividade1.executor": "Run",
     "Application.Atividade10.executor": "Run",
     "Application.Atividade11.executor": "Run",
+    "Application.Atividade14.executor": "Run",
     "Application.Atividade2.executor": "Run",
     "Application.Atividade20.executor": "Run",
     "Application.Atividade21.executor": "Run",
     "Application.Atividade26.executor": "Run",
     "Application.Atividade28.executor": "Run",
     "Application.Atividade3.executor": "Run",
+    "Application.Atividade33.executor": "Run",
+    "Application.Atividade36.executor": "Run",
+    "Application.Atividade39.executor": "Run",
     "Application.Atividade4.executor": "Run",
+    "Application.Atividade40.executor": "Run",
     "Application.Atividade5.executor": "Run",
     "Application.Atividade6.executor": "Run",
     "Application.Atividade7.executor": "Run",
