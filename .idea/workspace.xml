@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala12.java" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesEmSala/src/AtividadeSala12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtividadesJava/Atividade12.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +50,26 @@
     "Application.Atividade1.executor": "Run",
     "Application.Atividade10.executor": "Run",
     "Application.Atividade11.executor": "Run",
+    "Application.Atividade12.executor": "Run",
+    "Application.Atividade13.executor": "Run",
     "Application.Atividade14.executor": "Run",
+    "Application.Atividade15.executor": "Run",
+    "Application.Atividade16.executor": "Run",
+    "Application.Atividade17.executor": "Run",
+    "Application.Atividade18.executor": "Run",
+    "Application.Atividade19.executor": "Run",
     "Application.Atividade2.executor": "Run",
     "Application.Atividade20.executor": "Run",
     "Application.Atividade21.executor": "Run",
+    "Application.Atividade22.executor": "Run",
+    "Application.Atividade23.executor": "Run",
+    "Application.Atividade24.executor": "Run",
+    "Application.Atividade25.executor": "Run",
     "Application.Atividade26.executor": "Run",
+    "Application.Atividade27.executor": "Run",
     "Application.Atividade28.executor": "Run",
     "Application.Atividade3.executor": "Run",
+    "Application.Atividade32.executor": "Run",
     "Application.Atividade33.executor": "Run",
     "Application.Atividade36.executor": "Run",
     "Application.Atividade39.executor": "Run",
@@ -85,7 +105,8 @@
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="TaskManager">
