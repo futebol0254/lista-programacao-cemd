@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadesJava/src/Atividade32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtividadesJava/AtividadesJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesJava/AtividadesJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,70 +32,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Atividade1.executor": "Run",
-    "Application.Atividade10.executor": "Run",
-    "Application.Atividade11.executor": "Run",
-    "Application.Atividade12.executor": "Run",
-    "Application.Atividade13.executor": "Run",
-    "Application.Atividade14.executor": "Run",
-    "Application.Atividade15.executor": "Run",
-    "Application.Atividade16.executor": "Run",
-    "Application.Atividade17.executor": "Run",
-    "Application.Atividade18.executor": "Run",
-    "Application.Atividade19.executor": "Run",
-    "Application.Atividade2.executor": "Run",
-    "Application.Atividade20.executor": "Run",
-    "Application.Atividade21.executor": "Run",
-    "Application.Atividade22.executor": "Run",
-    "Application.Atividade23.executor": "Run",
-    "Application.Atividade24.executor": "Run",
-    "Application.Atividade25.executor": "Run",
-    "Application.Atividade26.executor": "Run",
-    "Application.Atividade27.executor": "Run",
-    "Application.Atividade28.executor": "Run",
-    "Application.Atividade3.executor": "Run",
-    "Application.Atividade32.executor": "Run",
-    "Application.Atividade33.executor": "Run",
-    "Application.Atividade36.executor": "Run",
-    "Application.Atividade39.executor": "Run",
-    "Application.Atividade4.executor": "Run",
-    "Application.Atividade40.executor": "Run",
-    "Application.Atividade5.executor": "Run",
-    "Application.Atividade6.executor": "Run",
-    "Application.Atividade7.executor": "Run",
-    "Application.Atividade8.executor": "Run",
-    "Application.Atividade9.executor": "Run",
-    "Application.AtividadeSala01.executor": "Run",
-    "Application.AtividadeSala02.executor": "Run",
-    "Application.AtividadeSala03.executor": "Run",
-    "Application.AtividadeSala04.executor": "Run",
-    "Application.AtividadeSala05.executor": "Run",
-    "Application.AtividadeSala06.executor": "Run",
-    "Application.AtividadeSala07.executor": "Run",
-    "Application.AtividadeSala08.executor": "Run",
-    "Application.AtividadeSala09.executor": "Run",
-    "Application.AtividadeSala10.executor": "Run",
-    "Application.AtividadeSala11.executor": "Run",
-    "Application.AtividadeSala12.executor": "Run",
-    "Application.AtividadeSala13.executor": "Run",
-    "Application.AtividadeSala14.executor": "Run",
-    "Application.AtividadeSala15.executor": "Run",
-    "Application.AtividadeSala16.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade29.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade36.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade39.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade40.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atividade9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtividadeSala16.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="" />
