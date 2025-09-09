@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/AtividadesPOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo01/Exemplo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo01/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo02/Exemplo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo02/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo03/Exemplo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo03/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo04/Exemplo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo04/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadesPOO/src/exemplo04/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AtividadesJava/AtividadesJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AtividadesJava/AtividadesJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +94,8 @@
     &quot;Application.AtividadeSala14.executor&quot;: &quot;Run&quot;,
     &quot;Application.AtividadeSala15.executor&quot;: &quot;Run&quot;,
     &quot;Application.AtividadeSala16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exemplo04.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -97,6 +109,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exemplo02" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="01fe0ce2-adc4-4cf6-b8b1-59e99dbcee6c" name="Changes" comment="" />
